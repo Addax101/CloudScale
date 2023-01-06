@@ -11,7 +11,7 @@ It allows you to provision and configure cloud resources, monitor their performa
 * A cloud account with a supported provider (e.g. AWS, Azure, GCP)
 * A configuration management tool (e.g. ansible, chef, puppet)
 ## Installation
-* Clone the CloudScale repository: git clone https://github.com/cloud-scale/cloud-scale.git
+* Clone the CloudScale repository: `https://github.com/Addax101/CloudScale.git`
 * Install the required dependencies: pip install -r requirements.txt
 * Configure your cloud account and desired resources in the configuration files
 ## Run the CloudScale setup script: `python setup.py`
