@@ -14,5 +14,6 @@ It allows you to provision and configure cloud resources, monitor their performa
 * Clone the CloudScale repository: `https://github.com/Addax101/CloudScale.git`
 * Install the required dependencies: pip install -r requirements.txt
 * Configure your cloud account and desired resources in the configuration files
-## Run the CloudScale setup script: `python setup.py`
+## Run the CloudScale setup script:
+`python setup.py`
  This will start the CloudScale service and begin monitoring and scaling your resources.
