@@ -17,3 +17,14 @@ It allows you to provision and configure cloud resources, monitor their performa
 ## Run the CloudScale setup script:
 `python setup.py`
  This will start the CloudScale service and begin monitoring and scaling your resources.
+## Usage
+* Configure your cloud resources using the configuration management tool of your choice.
+* Set up monitoring and alerting for your resources.
+* Design and implement your autoscaling rules.
+* Test and optimize your system.
+
+## Contributing
+We welcome contributions to CloudScale! If you have an idea for a feature or improvement, please open an issue or submit a pull request.
+
+## License
+CloudScale is licensed under the MIT License.
