@@ -1,5 +1,5 @@
 # CloudScale
-A system for automating the scaling and management of cloud resources.
+A system for **automating** the scaling and management of cloud resources.
 It allows you to provision and configure cloud resources, monitor their performance, and automatically adjust the number and types of resources based on workload demand.
 
 ## Features
