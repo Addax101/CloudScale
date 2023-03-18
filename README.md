@@ -24,7 +24,7 @@ It allows you to provision and configure cloud resources, monitor their performa
 * Test and optimize your system.
 
 ## Contributing
-We welcome contributions to CloudScale! If you have an idea for a feature or improvement, please open an issue or submit a pull request.
+We welcome contributions to *CloudScale*! If you have an idea for a feature or improvement, please open an issue or submit a pull request.
 
 ## License
 CloudScale is licensed under the MIT License.
